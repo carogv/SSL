@@ -1,7 +1,7 @@
 # TP 0 "Hello, World" en C
 - Compilador seleccionado: GCC
 - Versión 14.2.0
-- C23
+- C23 (fue averiguado a traves de la documentación y utilizando el comando -std=c23 al compilar)
 
 ## Objetivos:
 - Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
